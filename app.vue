@@ -19,6 +19,10 @@
 			title: "Sitcom laughter",
 			src: "/sitcom-audience-laugh.mp3",
 		},
+		{
+			title: "AAAAUUUGHHHH",
+			src: "aaa.mp3",
+		},
 	];
 </script>
 
