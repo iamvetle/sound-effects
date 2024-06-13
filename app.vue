@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<LazySoundEffect
+		<SoundEffect
 			class="soundeffect"
 			v-for="sound in listOfSoundeffects"
 			:soundeffect="sound"
