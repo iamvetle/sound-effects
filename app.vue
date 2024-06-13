@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<SoundEffect
+		<LazySoundEffect
 			class="soundeffect"
 			v-for="sound in listOfSoundeffects"
 			:soundeffect="sound"
@@ -30,6 +30,10 @@
 		{
 			title: "Vine boom",
 			src: "vine-boom.mp3",
+		},
+		{
+			title: "Huh?",
+			src: "huh-cat.mp3",
 		},
 	];
 </script>
