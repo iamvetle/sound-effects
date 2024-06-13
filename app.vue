@@ -39,6 +39,18 @@
 			title: "Bass drop",
 			src: "bass-drop.mp3",
 		},
+		{
+			title: "Fart",
+			src: "fart.mp3",
+		},
+		{
+			title: "Wet fart",
+			src: "wet-fart.mp3",
+		},
+		{
+			title: "Oh no fart",
+			src: "oh-no-fart.mp3",
+		},
 	];
 </script>
 
