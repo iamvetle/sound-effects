@@ -27,6 +27,10 @@
 			title: "Ah that's hot",
 			src: "ah-smith.mp3",
 		},
+		{
+			title: "Vine boom",
+			src: "vine-boom.mp3",
+		},
 	];
 </script>
 
