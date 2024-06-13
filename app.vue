@@ -51,6 +51,10 @@
 			title: "Oh no fart",
 			src: "oh-no-fart.mp3",
 		},
+		{
+			title: "What up guys?",
+			src: "what-up-guys.mp3",
+		},
 	];
 </script>
 
