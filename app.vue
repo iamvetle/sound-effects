@@ -40,7 +40,7 @@
 			src: "bass-drop.mp3",
 		},
 		{
-			title: "Fart",
+			title: "Short fart",
 			src: "fart.mp3",
 		},
 		{
