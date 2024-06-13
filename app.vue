@@ -35,6 +35,10 @@
 			title: "Huh?",
 			src: "huh-cat.mp3",
 		},
+		{
+			title: "Bass drop",
+			src: "bass-drop.mp3",
+		},
 	];
 </script>
 
