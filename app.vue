@@ -23,6 +23,10 @@
 			title: "AAAAUUUGHHHH",
 			src: "aaa.mp3",
 		},
+		{
+			title: "Ah that's hot",
+			src: "ah-smith.mp3",
+		},
 	];
 </script>
 
