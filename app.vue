@@ -59,6 +59,10 @@
 			title: "Samsung notification",
 			src: "samsung-notification-sound.mp3",
 		},
+		{
+			title: "Amoung us",
+			src: "among-us-sound.mp3",
+		},
 	];
 </script>
 
