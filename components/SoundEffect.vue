@@ -1,6 +1,8 @@
 <template>
 	<div>
-		<audio ref="audioRef" :src="soundeffect.src"></audio>
+		<audio ref="audioRef" nodownload nofullscreen>
+			<source :src="soundeffect.src" type="audio/mpeg" />
+		</audio>
 		<audio-button @click="playAudio" class="audiobutton">{{
 			soundeffect.title
 		}}</audio-button>
