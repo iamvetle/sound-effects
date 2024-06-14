@@ -55,6 +55,10 @@
 			title: "What up guys?",
 			src: "what-up-guys.mp3",
 		},
+		{
+			title: "Samsung notification",
+			src: "samsung-notification-sound.mp3",
+		},
 	];
 </script>
 
