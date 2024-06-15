@@ -1,8 +1,8 @@
 {
     "name": "Sound effects",
     "short_name": "Sound effects",
-    "theme_color": "#636f95",
-    "background_color": "#636f95",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
     "display": "standalone",
     "orientation": "portrait",
     "scope": "/",
