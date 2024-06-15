@@ -73,6 +73,39 @@
 			src: "oh-my-god-bruh-oh-hell-naw-man-wtf.mp3",
 		},
 	];
+
+	useSeoMeta({
+		title: "Sound effects",
+		description:
+			"Click on the various buttons to hear the different sound effects.",
+	});
+
+	useHead({
+		htmlAttrs: {
+			lang: "en",
+		},
+		meta: [
+			{
+				name: "theme-color",
+				content: "#636f95",
+			},
+		],
+		link: [
+			{
+				rel: "icon",
+				href: "/favicon.ico",
+			},
+			{
+				rel: "manifest",
+				href: "/manifest.json",
+			},
+			{
+				rel: "apple-touch-icon",
+				sizes: "180x180",
+				href: "/ios/180.png",
+			},
+		],
+	});
 </script>
 
 <style scoped>
