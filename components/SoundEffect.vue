@@ -42,7 +42,7 @@
 		font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
 			"Lucida Sans", Arial, sans-serif;
 		height: 3em;
-		width: 70vw;
+		width: 80vw;
 		text-transform: uppercase;
 		font-size: 16px;
 	}
