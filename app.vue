@@ -10,7 +10,12 @@
 </template>
 
 <script setup lang="ts">
-	const listOfSoundeffects = [
+	type SoundEffect = {
+		title: string;
+		src: string;
+	};
+
+	const listOfSoundeffects: SoundEffect[] = [
 		{
 			title: "Impressed audience",
 			src: "/audience-impressed-laugh.mp3",
@@ -62,6 +67,10 @@
 		{
 			title: "Amoung us",
 			src: "among-us-sound.mp3",
+		},
+		{
+			title: "Oh my god bruh, oh hell naw man",
+			src: "oh-my-god-bruh-oh-hell-naw-man-wtf.mp3",
 		},
 	];
 </script>
