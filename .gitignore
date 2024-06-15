@@ -5,6 +5,7 @@
 .nitro
 .cache
 dist
+commands-to-self.txt
 
 # Node dependencies
 node_modules
