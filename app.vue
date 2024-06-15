@@ -72,6 +72,10 @@
 			title: "Oh my god bruh",
 			src: "oh-my-god-bruh-oh-hell-naw-man-wtf.mp3",
 		},
+		{
+			title: "Air horn",
+			src: "air-horn.mp3",
+		},
 	];
 
 	useSeoMeta({

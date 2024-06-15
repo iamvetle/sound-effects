@@ -6,6 +6,7 @@
 .cache
 dist
 commands-to-self.txt
+public/filelist.txt
 
 # Node dependencies
 node_modules
