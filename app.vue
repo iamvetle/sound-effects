@@ -76,6 +76,18 @@
 			title: "DJ airhorn",
 			src: "dj-airhorn.mp3",
 		},
+		{
+			title: "Wrong buzzer",
+			src: "wrong-buzzer.mp3",
+		},
+		{
+			title: "Sad violin",
+			src: "sad-violin.mp3",
+		},
+		{
+			title: "I blame Joe Biden",
+			src: "i-blame-joe-biden.mp3",
+		},
 	];
 
 	useSeoMeta({
