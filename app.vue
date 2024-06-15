@@ -69,7 +69,7 @@
 			src: "among-us-sound.mp3",
 		},
 		{
-			title: "Oh my god bruh, oh hell naw man",
+			title: "Oh my god bruh",
 			src: "oh-my-god-bruh-oh-hell-naw-man-wtf.mp3",
 		},
 	];
@@ -87,7 +87,7 @@
 		meta: [
 			{
 				name: "theme-color",
-				content: "#636f95",
+				content: "#ffffff",
 			},
 		],
 		link: [
