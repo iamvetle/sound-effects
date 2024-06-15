@@ -3,7 +3,6 @@
 		<slot />
 	</button>
 </template>
-
 <script setup lang="ts">
 	defineSlots<{
 		default(): any;
