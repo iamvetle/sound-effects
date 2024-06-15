@@ -21,23 +21,16 @@
 		src: string;
 	};
 
-	const props = defineProps<{
+	defineProps<{
 		soundeffect: SoundEffect;
 	}>();
 
-	// const propSoundeffect = toRef(() => props.soundeffect);
-
-	// onMounted(async () => {
-	// 	const response = (await $fetch(propSoundeffect.value.src)) as Blob;
-
-	// 	const url = URL.createObjectURL(response);
-	// 	sound.value = url;
-	// 	console.log("url for sound", url);
-	// 	console.log("entire response with $fetch", response);
-	// });
-
 	function playAudio() {
-		audioRef.value?.play();
+		if (audioRef.value) {
+			audioRef.value.pause();
+			audioRef.value.play();
+			audioRef.value.currentTime = 0;
+		}
 	}
 </script>
 
