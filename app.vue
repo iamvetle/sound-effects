@@ -77,6 +77,10 @@
 			src: "dj-airhorn.mp3",
 		},
 		{
+			title: "Correct buzzer",
+			src: "correct-buzzer.mp3",
+		},
+		{
 			title: "Wrong buzzer",
 			src: "wrong-buzzer.mp3",
 		},
