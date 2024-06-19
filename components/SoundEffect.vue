@@ -1,9 +1,9 @@
 <template>
 	<div>
-		<audio ref="audioRef" nodownload nofullscreen>
+		<audio class="invisible" ref="audioRef" nodownload nofullscreen>
 			<source :src="soundeffect.src" type="audio/mpeg" />
 		</audio>
-		<audio-button @click="playAudio" class="audiobutton">{{
+		<audio-button @click="playAudio" class="">{{
 			soundeffect.title
 		}}</audio-button>
 	</div>
@@ -33,17 +33,3 @@
 		}
 	}
 </script>
-
-<style>
-	audio {
-		display: none;
-	}
-	.audiobutton {
-		font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-			"Lucida Sans", Arial, sans-serif;
-		height: 3em;
-		width: 80vw;
-		text-transform: uppercase;
-		font-size: 16px;
-	}
-</style>

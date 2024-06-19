@@ -1,11 +1,15 @@
 <template>
-	<div>
-		<SoundEffect
-			class="soundeffect"
-			v-for="sound in listOfSoundeffects"
-			:soundeffect="sound"
-			:key="sound.src"
-		/>
+	<div id="page-wrapper">
+		<h1 class="text-3xl mt-12 mb-8 text-center">Sound effects</h1>
+
+		<div class="flex flex-wrap justify-center lg:w-4/6 mx-auto">
+			<SoundEffect
+				class="mt-4 text-center p-2 border-2 mx-2 flex h-auto rounded-md hover:opacity-75"
+				v-for="sound in listOfSoundeffects"
+				:soundeffect="sound"
+				:key="sound.src"
+			/>
+		</div>
 	</div>
 </template>
 
@@ -127,12 +131,3 @@
 		],
 	});
 </script>
-
-<style scoped>
-	.soundeffect {
-		/** Have to do that when it is block - not margin left and right at auto */
-		text-align: center;
-		margin-top: 1em;
-		display: block;
-	}
-</style>
