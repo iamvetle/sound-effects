@@ -3,6 +3,36 @@ type SoundEffect = {
 	src: string;
 };
 
+// Sounds to add:
+
+// Windows error
+// * Wowwww
+// Mario jump?
+// FBI open up ?
+// A few moments later?
+// * GTA 5 wasted
+// * Distorted windows startup?
+// We'll be right back?
+// Famous movie screm?
+// * Heavenly music
+// OHHHHH (roast)?
+// Dramatic sound?
+// * South parth overgang towlie episode
+// * Alert
+// 2 hours later
+// * Wet? i have that already
+// Noice?
+// Hehe boi
+// Drum roll ?
+// Mario kart start ??
+// Ta daaa (peter grifin?)
+// * Mission failed
+// Inception horns
+// Crickets ..?
+// * Ba dun tss
+// Sorry bro?
+// Titanic flute fail
+
 const listOfSoundeffects: SoundEffect[] = [
 	{
 		title: "Impressed audience",
@@ -37,6 +67,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "fart.mp3",
 	},
 	{
+		// ? Unsure about this title
 		title: "Wet fart",
 		src: "wet-fart.mp3",
 	},
@@ -83,6 +114,38 @@ const listOfSoundeffects: SoundEffect[] = [
 	{
 		title: "Oof",
 		src: "oof-roblox.mp3",
+	},
+	{
+		title: "GTA V wasted",
+		src: "gta-v-wasted.mp3",
+	},
+	{
+		title: "Wowwww",
+		src: "wowwww-sound.mp3",
+	},
+	{
+		title: "Alert",
+		src: "alert.mp3",
+	},
+	{
+		title: "Ba dum tss",
+		src: "ba-dum-tss.mp3",
+	},
+	{
+		title: "Heavenly music",
+		src: "heavenly-music.mp3",
+	},
+	{
+		title: "Did not go as planned",
+		src: "did-not-go-as-planned.mp3",
+	},
+	{
+		title: "Mission failed",
+		src: "mission-failed-well-get-em-next-time.mp3",
+	},
+	{
+		title: "Distorted windows start up",
+		src: "windows-xp-distorted-startup.mp3",
 	},
 ];
 
