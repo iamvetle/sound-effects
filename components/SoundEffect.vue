@@ -1,9 +1,9 @@
 <template>
-	<div>
+	<div tabindex="0" @click="playAudio" @keyup.enter="playAudio">
 		<audio class="invisible" ref="audioRef" nodownload nofullscreen>
 			<source :src="soundeffect.src" type="audio/mpeg" />
 		</audio>
-		<audio-button @click="playAudio" class="">{{
+		<audio-button tabindex="-1" class="">{{
 			soundeffect.title
 		}}</audio-button>
 	</div>
