@@ -147,6 +147,10 @@ const listOfSoundeffects: SoundEffect[] = [
 		title: "Distorted windows start up",
 		src: "windows-xp-distorted-startup.mp3",
 	},
+	{
+		title: "Inception fog horn",
+		src: "inception-fog-horn.mp3",
+	},
 ];
 
 export default listOfSoundeffects;
