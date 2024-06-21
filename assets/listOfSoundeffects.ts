@@ -5,7 +5,7 @@ type SoundEffect = {
 
 // Sounds to add:
 
-// Windows error
+// * Windows error
 // * Wowwww
 // Mario jump?
 // FBI open up ?
@@ -27,7 +27,7 @@ type SoundEffect = {
 // Mario kart start ??
 // Ta daaa (peter grifin?)
 // * Mission failed
-// Inception horns
+// * Inception horns
 // Crickets ..?
 // * Ba dun tss
 // Sorry bro?
@@ -150,6 +150,10 @@ const listOfSoundeffects: SoundEffect[] = [
 	{
 		title: "Inception fog horn",
 		src: "inception-fog-horn.mp3",
+	},
+	{
+		title: "Windows error sound",
+		src: "windows-error-sound.mp3",
 	},
 ];
 
