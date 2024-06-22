@@ -155,6 +155,10 @@ const listOfSoundeffects: SoundEffect[] = [
 		title: "Windows error sound",
 		src: "windows-error-sound.mp3",
 	},
+	{
+		title: "So in javascript",
+		src: "plain-so-in-javascript.mp3",
+	},
 ];
 
 export default listOfSoundeffects;
