@@ -162,7 +162,7 @@ const listOfSoundeffects: SoundEffect[] = [
 
 	{
 		title: "I told you no",
-		src: "i-told-you-no-bass-boost.mp3",
+		src: "i-told-you-no.mp3",
 	},
 	{
 		title: "I told you no - demon",
