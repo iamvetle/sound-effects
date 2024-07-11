@@ -159,6 +159,15 @@ const listOfSoundeffects: SoundEffect[] = [
 		title: "So in javascript",
 		src: "plain-so-in-javascript.mp3",
 	},
+
+	{
+		title: "I told you no",
+		src: "i-told-you-no-bass-boost.mp3",
+	},
+	{
+		title: "I told you no - demon",
+		src: "i-told-you-no-demon.mp3",
+	},
 ];
 
 export default listOfSoundeffects;
