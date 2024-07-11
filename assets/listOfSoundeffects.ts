@@ -168,6 +168,10 @@ const listOfSoundeffects: SoundEffect[] = [
 		title: "I told you no - demon",
 		src: "i-told-you-no-demon.mp3",
 	},
+	{
+		title: "What the f is a kilometer",
+		src: "what-the-f-is-a-kilometer.mp3",
+	},
 ];
 
 export default listOfSoundeffects;
