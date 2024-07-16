@@ -1,4 +1,5 @@
 <template>
+	<VitePwaManifest />
 	<div id="page-wrapper">
 		<h1 class="text-3xl mt-12 mb-8 text-center">Sound effects</h1>
 
@@ -44,7 +45,7 @@
 			{
 				rel: "apple-touch-icon",
 				sizes: "180x180",
-				href: "/ios/180.png",
+				href: "/ios/180-wb.png",
 			},
 		],
 	});
