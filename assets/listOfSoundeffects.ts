@@ -144,7 +144,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "mission-failed-well-get-em-next-time.mp3",
 	},
 	{
-		title: "Distorted windows start up",
+		title: "Distorted windows start up 🪟👺",
 		src: "windows-xp-distorted-startup.mp3",
 	},
 	{
@@ -152,7 +152,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "inception-fog-horn.mp3",
 	},
 	{
-		title: "Windows error sound",
+		title: "Windows error sound 🪟🚫",
 		src: "windows-error-sound.mp3",
 	},
 	{
