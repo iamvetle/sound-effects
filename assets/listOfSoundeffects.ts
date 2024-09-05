@@ -47,7 +47,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "aaa.mp3",
 	},
 	{
-		title: "Ah that's hot",
+		title: "Ah that's hot 🔥",
 		src: "ah-smith.mp3",
 	},
 	{
@@ -55,7 +55,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "vine-boom.mp3",
 	},
 	{
-		title: "Huh?",
+		title: "Huh? 🐈‍⬛",
 		src: "huh-cat.mp3",
 	},
 	{
