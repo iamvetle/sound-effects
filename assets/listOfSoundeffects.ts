@@ -35,11 +35,11 @@ type SoundEffect = {
 
 const listOfSoundeffects: SoundEffect[] = [
 	{
-		title: "Impressed audience",
+		title: "Impressed audience 👏",
 		src: "/audience-impressed-laugh.mp3",
 	},
 	{
-		title: "Sitcom laughter",
+		title: "Sitcom laughter 🎬",
 		src: "/sitcom-audience-laugh.mp3",
 	},
 	{
@@ -59,7 +59,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "huh-cat.mp3",
 	},
 	{
-		title: "Bass drop",
+		title: "Bass drop 🔊",
 		src: "bass-drop.mp3",
 	},
 	{
@@ -68,15 +68,15 @@ const listOfSoundeffects: SoundEffect[] = [
 	},
 	{
 		// ? Unsure about this title
-		title: "Wet fart",
+		title: "Wet fart 💨",
 		src: "wet-fart.mp3",
 	},
 	{
-		title: "Oh no fart",
+		title: "Oh no fart 🚽",
 		src: "oh-no-fart.mp3",
 	},
 	{
-		title: "What up guys?",
+		title: "What up guys? 😩",
 		src: "what-up-guys.mp3",
 	},
 	{
@@ -88,19 +88,19 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "among-us-sound.mp3",
 	},
 	{
-		title: "Oh my god bruh",
+		title: "Oh my god bruh 🤦‍♂️",
 		src: "oh-my-god-bruh-oh-hell-naw-man-wtf.mp3",
 	},
 	{
-		title: "DJ airhorn 📯",
+		title: "DJ airhorn 📢",
 		src: "dj-airhorn.mp3",
 	},
 	{
-		title: "Correct buzzer",
+		title: "Correct buzzer ✅",
 		src: "correct-buzzer.mp3",
 	},
 	{
-		title: "Wrong buzzer",
+		title: "Wrong buzzer ❌",
 		src: "wrong-buzzer.mp3",
 	},
 	{
@@ -108,7 +108,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "sad-violin.mp3",
 	},
 	{
-		title: "I blame Joe Biden",
+		title: "I blame Joe Biden 👴",
 		src: "i-blame-joe-biden.mp3",
 	},
 	{
@@ -120,7 +120,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "gta-v-wasted.mp3",
 	},
 	{
-		title: "Wowwww",
+		title: "Wowwww 🌟",
 		src: "wowwww-sound.mp3",
 	},
 	{
@@ -128,11 +128,11 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "alert.mp3",
 	},
 	{
-		title: "Ba dum tss",
+		title: "Ba dum tss 🥁",
 		src: "ba-dum-tss.mp3",
 	},
 	{
-		title: "Heavenly music",
+		title: "Heavenly music 🪽",
 		src: "heavenly-music.mp3",
 	},
 	{
@@ -161,15 +161,15 @@ const listOfSoundeffects: SoundEffect[] = [
 	},
 
 	{
-		title: "I told you no",
+		title: "I told you no 😠",
 		src: "i-told-you-no.mp3",
 	},
 	{
-		title: "I told you no - demon",
+		title: "I told you no - demon 👹",
 		src: "i-told-you-no-demon.mp3",
 	},
 	{
-		title: "What the f is a kilometer",
+		title: "What the f is a kilometer 🗽",
 		src: "what-the-f-is-a-kilometer.mp3",
 	},
 ];
