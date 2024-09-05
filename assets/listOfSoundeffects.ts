@@ -92,7 +92,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "oh-my-god-bruh-oh-hell-naw-man-wtf.mp3",
 	},
 	{
-		title: "DJ airhorn",
+		title: "DJ airhorn 📯",
 		src: "dj-airhorn.mp3",
 	},
 	{
@@ -104,7 +104,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "wrong-buzzer.mp3",
 	},
 	{
-		title: "Sad violin",
+		title: "Sad violin 🎻",
 		src: "sad-violin.mp3",
 	},
 	{
