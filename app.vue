@@ -3,7 +3,7 @@
 	<div id="page-wrapper">
 		<h1 class="text-3xl mt-12 mb-8 text-center">Sound effects</h1>
 
-		<div class="flex flex-wrap justify-center lg:w-4/6 mx-auto">
+		<div class="flex flex-wrap justify-center lg:w-4/6 mx-auto mb-2">
 			<ClientOnly>
 				<SoundEffect
 					class="mt-4 text-center p-2 border-2 mx-2 flex h-auto rounded-md hover:opacity-75"
