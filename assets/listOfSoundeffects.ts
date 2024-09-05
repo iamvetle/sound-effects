@@ -173,7 +173,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "what-the-f-is-a-kilometer.mp3",
 	},
 	{
-		title: "Minnesota 👴",
+		title: "Minnesota 🥤",
 		src: "minnesota.mp3",
 	},
 ];
