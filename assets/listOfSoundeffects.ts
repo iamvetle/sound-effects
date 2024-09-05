@@ -172,6 +172,10 @@ const listOfSoundeffects: SoundEffect[] = [
 		title: "What the f is a kilometer 🗽",
 		src: "what-the-f-is-a-kilometer.mp3",
 	},
+	{
+		title: "Minnesota 👴",
+		src: "minnesota.mp3",
+	},
 ];
 
 export default listOfSoundeffects;
