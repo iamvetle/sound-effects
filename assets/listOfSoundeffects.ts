@@ -116,7 +116,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "oof-roblox.mp3",
 	},
 	{
-		title: "GTA V wasted",
+		title: "GTA V wasted 😵",
 		src: "gta-v-wasted.mp3",
 	},
 	{
@@ -124,7 +124,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "wowwww-sound.mp3",
 	},
 	{
-		title: "Alert",
+		title: "Alert 🚨",
 		src: "alert.mp3",
 	},
 	{
@@ -136,11 +136,11 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "heavenly-music.mp3",
 	},
 	{
-		title: "Did not go as planned",
+		title: "Did not go as planned 😵‍💫",
 		src: "did-not-go-as-planned.mp3",
 	},
 	{
-		title: "Mission failed",
+		title: "Mission failed 💀",
 		src: "mission-failed-well-get-em-next-time.mp3",
 	},
 	{
@@ -148,7 +148,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "windows-xp-distorted-startup.mp3",
 	},
 	{
-		title: "Inception fog horn",
+		title: "Inception fog horn 🌫️",
 		src: "inception-fog-horn.mp3",
 	},
 	{
