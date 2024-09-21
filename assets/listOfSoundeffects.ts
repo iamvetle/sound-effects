@@ -177,7 +177,7 @@ const listOfSoundeffects: SoundEffect[] = [
 		src: "minnesota.mp3",
 	},
 	{
-		title: "Hamburger 🍔",
+		title: "Noodles 🍜",
 		src: "hamburger.mp3",
 	},
 ];
