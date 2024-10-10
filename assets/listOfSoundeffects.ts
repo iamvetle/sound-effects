@@ -180,6 +180,10 @@ const listOfSoundeffects: SoundEffect[] = [
 		title: "Noodles 🍜",
 		src: "hamburger.mp3",
 	},
+	{
+		title: "Erm, what the sigma?",
+		src: "erm-what-the-sigma.mp3",
+	},
 ];
 
 export default listOfSoundeffects;
