@@ -184,6 +184,10 @@ const listOfSoundeffects: SoundEffect[] = [
 		title: "Erm, what the sigma?",
 		src: "erm-what-the-sigma.mp3",
 	},
+	{
+		title: "Erm, what the hamburger? ",
+		src: "erm-what-the-hamburger.mp3",
+	},
 ];
 
 export default listOfSoundeffects;
